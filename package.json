@@ -3,12 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://nigelp.github.io/cool_units",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
